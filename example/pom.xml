@@ -2,15 +2,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.github.kevinsawicki</groupId>
+	<groupId>com.pss.test</groupId>
 	<artifactId>github-maven-example</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
-	<url>https://github.com/kevinsawicki/github-maven-example</url>
+	<url>https://github.com/Shasthri/SampleSpringApp</url>
 
 	<issueManagement>
-		<url>https://github.com/kevinsawicki/github-maven-example/issues</url>
+		<url>https://github.com/Shasthri/SampleSpringApp/issues</url>
 		<system>GitHub Issues</system>
 	</issueManagement>
 
@@ -23,19 +23,10 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/kevinsawicki/github-maven-example</url>
-		<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
-		<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+		<url>https://github.com/Shasthri/SampleSpringApp</url>
+		<connection>scm:git:git://github.com/Shasthri/SampleSpringApp.git</connection>
+		<developerConnection>scm:git:git@github.com:Shasthri/SampleSpringApp.git</developerConnection>
 	</scm>
-
-	<developers>
-		<developer>
-			<email>kevinsawicki@gmail.com</email>
-			<name>Kevin Sawicki</name>
-			<url>https://github.com/kevinsawicki</url>
-			<id>kevinsawicki</id>
-		</developer>
-	</developers>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
